@@ -1507,6 +1507,27 @@
         "Mobile",
         "jQuery"
       ]
+    },
+{
+      "name": "J.A.M.- JSON Angular Magneto",
+      "thumb": "jam/thumb.png",
+      "desc": "JAM is lightning Fast Magento eCommerce Store with an innovative User Interface.",
+      "url": "http://jam.neevtech.com",
+      "submitter": "areai51",
+      "submissionDate": "2013-05-23",
+      "tags": [
+        "Demo",
+        "Magento",
+        "JSON",
+        "Bootstrap",
+        "Animations",
+        "Local Storage",
+        "CSS3",
+        "Responsive",
+        "Mobile",
+        "jQuery"
+      ]
     }
+
   ]
 }
